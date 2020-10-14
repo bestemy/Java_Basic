@@ -1,6 +1,6 @@
 package Tutorial;
 
-public class Main {
+public class dataTypePrimitive {
 
     public static void main(String[] args) {
 
