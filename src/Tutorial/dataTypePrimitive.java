@@ -29,7 +29,6 @@ public class dataTypePrimitive {
         long myMaxLongValuea = 9_223_372_036_854_775_807L;
 
 
-
         /////// CHALLENGE ///////
 
         /*
