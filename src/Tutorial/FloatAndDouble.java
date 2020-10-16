@@ -1,6 +1,6 @@
 package Tutorial;
 
-public class floatAndDouble {
+public class FloatAndDouble {
 
     public static void main(String[] args) {
         int myIntValue = 5;

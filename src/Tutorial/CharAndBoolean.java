@@ -1,6 +1,6 @@
 package Tutorial;
 
-public class charAndBoolean {
+public class CharAndBoolean {
 
     public static void main(String[] args) {
 

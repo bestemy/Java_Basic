@@ -1,6 +1,6 @@
 package Tutorial;
 
-public class string_Recap_primitive_data_types {
+public class String_RecapPrimitiveDataTypes {
 
     public static void main(String[] args) {
         /*

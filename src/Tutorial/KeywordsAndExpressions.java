@@ -1,6 +1,6 @@
 package Tutorial;
 
-public class keywordsAndExpressions {
+public class KeywordsAndExpressions {
     /*
 abstract
 A method with no definition must be declared as abstract and the class containing it must be declared as abstract. Abstract classes cannot be instantiated. Abstract methods must be implemented in the sub classes. The abstract keyword cannot be used with variables or constructors. Note that an abstract class isn't required to have an abstract method at all.
