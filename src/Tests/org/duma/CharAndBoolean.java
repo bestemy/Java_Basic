@@ -1,4 +1,4 @@
-package Tutorial;
+package Tests.org.duma;
 
 public class CharAndBoolean {
 
