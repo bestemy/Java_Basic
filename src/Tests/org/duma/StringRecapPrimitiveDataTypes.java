@@ -1,6 +1,6 @@
 package Tests.org.duma;
 
-public class String_RecapPrimitiveDataTypes {
+public class StringRecapPrimitiveDataTypes {
 
     public static void main(String[] args) {
         /*
